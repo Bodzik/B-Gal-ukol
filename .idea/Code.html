@@ -9,20 +9,266 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <link rel="stylesheet" type="text/css" href="css.css">
+    <style>
+        img{
+            width: 50%;
+            position: relative;
+        }
+        .form-group{
+            background-image: url('https://www.ditipo.cz/data/img/c3357015_2.jpg');
+            height: 1000px;
+            width: 1500px;
+        }
+        .form-control-1{
+            position: absolute;
+            z-index: 1;
+            height: 62px;
+            width: 325px;
+            margin-top: 158px;
+            margin-left: 255px;
+            transform: rotate(1.3deg);
+            border: 1px solid black;
+        }
+        .form-control-12{
+            position: absolute;
+            z-index: 1;
+            height: 65px;
+            width: 113px;
+            margin-top: 152px;
+            margin-left: 138px;
+            transform: rotate(1deg);
+            border: 1px solid black;
+        }
+        .form-control-2{
+            position: absolute;
+            z-index: 1;
+            height: 62px;
+            width: 325px;
+            margin-top: 224px;
+            margin-left: 255px;
+            transform: rotate(1deg);
+            border: 1px solid black;
+        }
+        .form-control-13{
+            position: absolute;
+            z-index: 1;
+            height: 65px;
+            width: 113px;
+            margin-top: 220px;
+            margin-left: 138px;
+            transform: rotate(0.8deg);
+            border: 1px solid black;
+        }
+        .form-control-3{
+            position: absolute;
+            z-index: 1;
+            height: 62px;
+            width: 325px;
+            margin-top: 291px;
+            margin-left: 255px;
+            transform: rotate(1deg);
+            border: 1px solid black;
+        }
+        .form-control-14{
+            position: absolute;
+            z-index: 1;
+            height: 65px;
+            width: 113px;
+            margin-top: 287px;
+            margin-left: 138px;
+            transform: rotate(0.8deg);
+            border: 1px solid black;
+        }
+        .form-control-4{
+            position: absolute;
+            z-index: 1;
+            height: 62px;
+            width: 325px;
+            margin-top: 358px;
+            margin-left: 255px;
+            transform: rotate(0.8deg);
+            border: 1px solid black;
+        }
+        .form-control-15{
+            position: absolute;
+            z-index: 1;
+            height: 65px;
+            width: 113px;
+            margin-top: 354px;
+            margin-left: 138px;
+            transform: rotate(0.8deg);
+            border: 1px solid black;
+        }
+        .form-control-5{
+            position: absolute;
+            z-index: 1;
+            height: 62px;
+            width: 325px;
+            margin-top: 425px;
+            margin-left: 255px;
+            transform: rotate(0.5deg);
+            border: 1px solid black;
+        }
+        .form-control-16{
+            position: absolute;
+            z-index: 1;
+            height: 65px;
+            width: 113px;
+            margin-top: 422px;
+            margin-left: 138px;
+            transform: rotate(0.5deg);
+            border: 1px solid black;
+        }
+        .form-control-6{
+            position: absolute;
+            z-index: 1;
+            height: 62px;
+            width: 325px;
+            margin-top: 492px;
+            margin-left: 255px;
+            transform: rotate(0.5deg);
+            border: 1px solid black;
+        }
+        .form-control-17{
+            position: absolute;
+            z-index: 1;
+            height: 65px;
+            width: 113px;
+            margin-top: 490px;
+            margin-left: 138px;
+            transform: rotate(0.5deg);
+            border: 1px solid black;
+        }
+        .form-control-7{
+            position: absolute;
+            z-index: 1;
+            height: 62px;
+            width: 325px;
+            margin-top: 558px;
+            margin-left: 255px;
+            transform: rotate(0.2deg);
+            border: 1px solid black;
+        }
+        .form-control-18{
+            position: absolute;
+            z-index: 1;
+            height: 65px;
+            width: 113px;
+            margin-top: 558px;
+            margin-left: 138px;
+            transform: rotate(0.2deg);
+            border: 1px solid black;
+        }
+        .form-control-8{
+            position: absolute;
+            z-index: 1;
+            height: 62px;
+            width: 325px;
+            margin-top: 692px;
+            margin-left: 255px;
+            transform: rotate(0deg);
+            border: 1px solid black;
+        }
+        .form-control-19{
+            position: absolute;
+            z-index: 1;
+            height: 65px;
+            width: 113px;
+            margin-top: 692px;
+            margin-left: 138px;
+            transform: rotate(0deg);
+            border: 1px solid black;
+        }
+        .form-control-9{
+            position: absolute;
+            z-index: 1;
+            height: 62px;
+            width: 325px;
+            margin-top: 625px;
+            margin-left: 255px;
+            transform: rotate(0deg);
+            border: 1px solid black;
+        }
+        .form-control-20{
+            position: absolute;
+            z-index: 1;
+            height: 65px;
+            width: 113px;
+            margin-top: 625px;
+            margin-left: 138px;
+            transform: rotate(0deg);
+            border: 1px solid black;
+        }
+        .form-control-10{
+            position: absolute;
+            z-index: 1;
+            height: 62px;
+            width: 325px;
+            margin-top: 759px;
+            margin-left: 255px;
+            transform: rotate(0deg);
+            border: 1px solid black;
+        }
+        .form-control-21{
+            position: absolute;
+            z-index: 1;
+            height: 65px;
+            width: 113px;
+            margin-top: 759px;
+            margin-left: 138px;
+            transform: rotate(0deg);
+            border: 1px solid black;
+        }
+        .form-control-11{
+            position: absolute;
+            z-index: 1;
+            height: 62px;
+            width: 325px;
+            margin-top: 825px;
+            margin-left: 255px;
+            transform: rotate(-0.5deg);
+            border: 1px solid black;
+        }
+        .form-control-22{
+            position: absolute;
+            z-index: 1;
+            height: 65px;
+            width: 113px;
+            margin-top: 828px;
+            margin-left: 138px;
+            transform: rotate(-0.5deg);
+            border: 1px solid black;
+        }
+
+    </style>
 </head>
 <body>
-    <div class = "container">
-        <h2>Úkolníček</h2>
-        <form>
-            <div class="form-group">
-                <label for="nazev">Název:</label>
-                <input type="text" clas="form-control" id="nazev">
-            </div>
-            <div class="form-group">
-                <label for="ukol">TODO:</label>
-                <input type="text" clas="form-control" id="ukol">
-            </div>
-        </form>
+<div class="container">
+    <div class="form-group">
+        <input type="text" style="font-family:Awesome" class="form-control-1">
+        <input type="text" style="font-family:awesome" class="form-control-2">
+        <input type="text" style="font-family:awesome" class="form-control-3">
+        <input type="text" style="font-family:awesome" class="form-control-4">
+        <input type="text" style="font-family:awesome" class="form-control-5">
+        <input type="text" style="font-family:awesome" class="form-control-6">
+        <input type="text" style="font-family:awesome" class="form-control-7">
+        <input type="text" style="font-family:awesome" class="form-control-8">
+        <input type="text" style="font-family:awesome" class="form-control-9">
+        <input type="text" style="font-family:awesome" class="form-control-10">
+        <input type="text" style="font-family:awesome" class="form-control-11">
+
+        <input type="date" style="font-size:12px" class="form-control-12">
+        <input type="date" style="font-size:12px" class="form-control-13">
+        <input type="date" style="font-size:12px" class="form-control-14">
+        <input type="date" style="font-size:12px" class="form-control-15">
+        <input type="date" style="font-size:12px" class="form-control-16">
+        <input type="date" style="font-size:12px" class="form-control-17">
+        <input type="date" style="font-size:12px" class="form-control-18">
+        <input type="date" style="font-size:12px" class="form-control-19">
+        <input type="date" style="font-size:12px" class="form-control-20">
+        <input type="date" style="font-size:12px" class="form-control-21">
+        <input type="date" style="font-size:12px" class="form-control-22">
     </div>
+</div>
 </body>
 </html>
