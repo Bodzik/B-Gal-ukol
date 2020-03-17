@@ -1,0 +1,258 @@
+.form-group{
+            background-image: url('https://www.ditipo.cz/data/img/c3357015_2.jpg');
+            height: 1000px;
+            width: 1500px;
+        }
+
+        .img-set{
+            position: absolute;
+            height: 70px;
+            width: 85px;
+        }
+
+
+        .form-control-1{
+            position: absolute;
+            height: 62px;
+            width: 325px;
+            margin-top: 157px;
+            margin-left: 252px;
+            transform: rotate(1.3deg);
+            border: 1px solid black;
+        }
+        .form-control-12{
+            position: absolute;
+            height: 65px;
+            width: 113px;
+            margin-top: 152px;
+            margin-left: 137px;
+            transform: rotate(1deg);
+            border: 1px solid black;
+        }
+        #img-set-1{
+            margin-top: 162px;
+            margin-left: 610px;
+        }
+
+
+        .form-control-2{
+            position: absolute;
+            height: 62px;
+            width: 325px;
+            margin-top: 224px;
+            margin-left: 253px;
+            transform: rotate(1deg);
+            border: 1px solid black;
+        }
+        .form-control-13{
+            position: absolute;
+            height: 65px;
+            width: 113px;
+            margin-top: 220px;
+            margin-left: 138px;
+            transform: rotate(0.8deg);
+            border: 1px solid black;
+        }
+        #img-set-2{
+            margin-top: 228px;
+            margin-left: 610px;
+        }
+
+
+        .form-control-3{
+            position: absolute;
+            height: 62px;
+            width: 325px;
+            margin-top: 291px;
+            margin-left: 253px;
+            transform: rotate(1deg);
+            border: 1px solid black;
+        }
+        .form-control-14{
+            position: absolute;
+            height: 65px;
+            width: 113px;
+            margin-top: 287px;
+            margin-left: 138px;
+            transform: rotate(0.8deg);
+            border: 1px solid black;
+        }
+        #img-set-3{
+            margin-top: 293px;
+            margin-left: 610px;
+        }
+
+
+        .form-control-4{
+            position: absolute;
+            height: 62px;
+            width: 325px;
+            margin-top: 358px;
+            margin-left: 253px;
+            transform: rotate(0.8deg);
+            border: 1px solid black;
+        }
+        .form-control-15{
+            position: absolute;
+            height: 65px;
+            width: 113px;
+            margin-top: 354px;
+            margin-left: 138px;
+            transform: rotate(0.8deg);
+            border: 1px solid black;
+        }
+        #img-set-4{
+            margin-top: 359px;
+            margin-left: 610px;
+        }
+
+
+        .form-control-5{
+            position: absolute;
+            height: 62px;
+            width: 325px;
+            margin-top: 425px;
+            margin-left: 253px;
+            transform: rotate(0.5deg);
+            border: 1px solid black;
+        }
+        .form-control-16{
+            position: absolute;
+            height: 65px;
+            width: 113px;
+            margin-top: 422px;
+            margin-left: 138px;
+            transform: rotate(0.5deg);
+            border: 1px solid black;
+        }
+        #img-set-5{
+            margin-top: 425px;
+            margin-left: 610px;
+        }
+
+
+        .form-control-6{
+            position: absolute;
+            height: 62px;
+            width: 325px;
+            margin-top: 492px;
+            margin-left: 253px;
+            transform: rotate(0.5deg);
+            border: 1px solid black;
+        }
+        .form-control-17{
+            position: absolute;
+            height: 65px;
+            width: 113px;
+            margin-top: 490px;
+            margin-left: 138px;
+            transform: rotate(0.5deg);
+            border: 1px solid black;
+        }
+        #img-set-6{
+            margin-top: 490px;
+            margin-left: 610px;
+        }
+
+
+        .form-control-7{
+            position: absolute;
+            height: 62px;
+            width: 325px;
+            margin-top: 558px;
+            margin-left: 253px;
+            transform: rotate(0.2deg);
+            border: 1px solid black;
+        }
+        .form-control-18{
+            position: absolute;
+            height: 65px;
+            width: 113px;
+            margin-top: 558px;
+            margin-left: 138px;
+            transform: rotate(0.2deg);
+            border: 1px solid black;
+        }
+        #img-set-7{
+            margin-top: 557px;
+            margin-left: 610px;
+        }
+
+
+        .form-control-8{
+            position: absolute;
+            height: 62px;
+            width: 325px;
+            margin-top: 692px;
+            margin-left: 253px;
+            transform: rotate(0deg);
+            border: 1px solid black;
+        }
+        .form-control-19{
+            position: absolute;
+            height: 65px;
+            width: 113px;
+            margin-top: 692px;
+            margin-left: 138px;
+            transform: rotate(0deg);
+            border: 1px solid black;
+        }
+        .form-control-9{
+            position: absolute;
+            height: 62px;
+            width: 325px;
+            margin-top: 625px;
+            margin-left: 253px;
+            transform: rotate(0deg);
+            border: 1px solid black;
+        }
+        .form-control-20{
+            position: absolute;
+            height: 65px;
+            width: 113px;
+            margin-top: 625px;
+            margin-left: 138px;
+            transform: rotate(0deg);
+            border: 1px solid black;
+        }
+        .form-control-10{
+            position: absolute;
+            height: 62px;
+            width: 325px;
+            margin-top: 759px;
+            margin-left: 253px;
+            transform: rotate(0deg);
+            border: 1px solid black;
+        }
+        .form-control-21{
+            position: absolute;
+            height: 65px;
+            width: 113px;
+            margin-top: 759px;
+            margin-left: 138px;
+            transform: rotate(0deg);
+            border: 1px solid black;
+        }
+        .form-control-11{
+            position: absolute;
+            height: 62px;
+            width: 325px;
+            margin-top: 825px;
+            margin-left: 253px;
+            transform: rotate(-0.5deg);
+            border: 1px solid black;
+        }
+        .form-control-22{
+            position: absolute;
+            height: 65px;
+            width: 113px;
+            margin-top: 828px;
+            margin-left: 138px;
+            transform: rotate(-0.5deg);
+            border: 1px solid black;
+        }
+        input.break {
+            word-wrap: break-word;
+            word-break: break-all;
+            height: 80px;
+        }
