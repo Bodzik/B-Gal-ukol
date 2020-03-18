@@ -8,3 +8,7 @@ function changeImage(obj) {
             image.src = "https://raw.githubusercontent.com/Bodzik/B-Gal-ukol/master/yas.png";
         }
     }
+function changeFontSize(obj) {
+    var idx = obj.id;
+  document.getElementById(idx).style.fontSize = "xx-small";
+}
