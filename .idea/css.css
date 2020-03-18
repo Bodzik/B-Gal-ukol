@@ -1,4 +1,4 @@
- .form-group{
+        .form-group{
             background-image: url('https://www.ditipo.cz/data/img/c3357015_2.jpg');
             height: 1000px;
             width: 1500px;
@@ -20,13 +20,13 @@
             transform: rotate(1.3deg);
             border: 1px solid black;
         }
-        .form-control-12{
+        .form-date-1{
             position: absolute;
             height: 65px;
             width: 113px;
             margin-top: 153px;
             margin-left: 138px;
-            transform: rotate(1deg);
+            transform: rotate(0.5deg);
             border: 1px solid black;
         }
         #img-set-1{
@@ -44,7 +44,7 @@
             transform: rotate(1deg);
             border: 1px solid black;
         }
-        .form-control-13{
+        .form-date-2{
             position: absolute;
             height: 65px;
             width: 113px;
@@ -68,7 +68,7 @@
             transform: rotate(1deg);
             border: 1px solid black;
         }
-        .form-control-14{
+        .form-date-3{
             position: absolute;
             height: 65px;
             width: 113px;
@@ -92,7 +92,7 @@
             transform: rotate(0.8deg);
             border: 1px solid black;
         }
-        .form-control-15{
+        .form-date-4{
             position: absolute;
             height: 65px;
             width: 113px;
@@ -116,7 +116,7 @@
             transform: rotate(0.5deg);
             border: 1px solid black;
         }
-        .form-control-16{
+        .form-date-5{
             position: absolute;
             height: 65px;
             width: 113px;
@@ -140,7 +140,7 @@
             transform: rotate(0.5deg);
             border: 1px solid black;
         }
-        .form-control-17{
+        .form-date-6{
             position: absolute;
             height: 65px;
             width: 113px;
@@ -164,7 +164,7 @@
             transform: rotate(0.2deg);
             border: 1px solid black;
         }
-        .form-control-18{
+        .form-date-7{
             position: absolute;
             height: 65px;
             width: 113px;
@@ -188,7 +188,7 @@
             transform: rotate(0deg);
             border: 1px solid black;
         }
-        .form-control-19{
+        .form-date-8{
             position: absolute;
             height: 65px;
             width: 113px;
@@ -212,7 +212,7 @@
             transform: rotate(0deg);
             border: 1px solid black;
         }
-        .form-control-20{
+        .form-date-9{
             position: absolute;
             height: 65px;
             width: 113px;
@@ -236,7 +236,7 @@
             transform: rotate(0deg);
             border: 1px solid black;
         }
-        .form-control-21{
+        .form-date-10{
             position: absolute;
             height: 65px;
             width: 113px;
@@ -260,7 +260,7 @@
             transform: rotate(-0.5deg);
             border: 1px solid black;
         }
-        .form-control-22{
+        .form-date-11{
             position: absolute;
             height: 65px;
             width: 113px;
@@ -272,4 +272,257 @@
         #img-set-11{
             margin-top: 820px;
             margin-left: 610px;
+        }
+
+        .form-control-12{
+             position: absolute;
+             height: 61px;
+             width: 322px;
+             margin-top: 157px;
+             margin-left: 885px;
+             transform: rotate(-1.6deg);
+             border: 1px solid black;
+         }
+        .form-date-12{
+            position: absolute;
+            height: 65px;
+            width: 108px;
+            margin-top: 163px;
+            margin-left: 777px;
+            transform: rotate(-1deg);
+            border: 1px solid black;
+        }
+        #img-set-12{
+            margin-top: 148px;
+            margin-left: 1240px;
+        }
+
+        .form-control-13{
+            position: absolute;
+            height: 61px;
+            width: 322px;
+            margin-top: 224px;
+            margin-left: 885px;
+            transform: rotate(-1.4deg);
+            border: 1px solid black;
+        }
+        .form-date-13{
+            position: absolute;
+            height: 65px;
+            width: 108px;
+            margin-top: 229px;
+            margin-left: 776px;
+            transform: rotate(-0.8deg);
+            border: 1px solid black;
+        }
+        #img-set-13{
+            margin-top: 215px;
+            margin-left: 1240px;
+        }
+
+        .form-control-14{
+            position: absolute;
+            height: 61px;
+            width: 322px;
+            margin-top: 291px;
+            margin-left: 885px;
+            transform: rotate(-1.2deg);
+            border: 1px solid black;
+        }
+        .form-date-14{
+            position: absolute;
+            height: 65px;
+            width: 108px;
+            margin-top: 295px;
+            margin-left: 776px;
+            transform: rotate(-0.6deg);
+            border: 1px solid black;
+        }
+        #img-set-14{
+            margin-top: 284px;
+            margin-left: 1240px;
+        }
+
+        .form-control-15{
+             position: absolute;
+             height: 61px;
+             width: 322px;
+             margin-top: 358px;
+             margin-left: 885px;
+             transform: rotate(-0.8deg);
+             border: 1px solid black;
+        }
+        .form-date-15{
+              position: absolute;
+              height: 65px;
+              width: 108px;
+              margin-top: 361px;
+              margin-left: 776px;
+              transform: rotate(-0.6deg);
+              border: 1px solid black;
+        }
+        #img-set-15{
+            margin-top: 352px;
+            margin-left: 1240px;
+        }
+
+        .form-control-16{
+             position: absolute;
+             height: 61px;
+             width: 322px;
+             margin-top: 425px;
+             margin-left: 885px;
+             transform: rotate(-0.8deg);
+             border: 1px solid black;
+        }
+        .form-date-16{
+              position: absolute;
+              height: 65px;
+              width: 108px;
+              margin-top: 427px;
+              margin-left: 776px;
+              transform: rotate(-0.6deg);
+              border: 1px solid black;
+        }
+        #img-set-16{
+            margin-top: 419px;
+            margin-left: 1240px;
+        }
+
+        .form-control-17{
+             position: absolute;
+             height: 61px;
+             width: 322px;
+             margin-top: 491px;
+             margin-left: 885px;
+             transform: rotate(-0.5deg);
+             border: 1px solid black;
+        }
+        .form-date-17{
+              position: absolute;
+              height: 65px;
+              width: 108px;
+              margin-top: 493px;
+              margin-left: 776px;
+              transform: rotate(-0.6deg);
+              border: 1px solid black;
+        }
+        #img-set-17{
+            margin-top: 488px;
+            margin-left: 1240px;
+        }
+
+        .form-control-18{
+             position: absolute;
+             height: 61px;
+             width: 322px;
+             margin-top: 558px;
+             margin-left: 885px;
+             transform: rotate(-0.5deg);
+             border: 1px solid black;
+        }
+        .form-date-18{
+              position: absolute;
+              height: 65px;
+              width: 108px;
+              margin-top: 559px;
+              margin-left: 776px;
+              transform: rotate(-0.6deg);
+              border: 1px solid black;
+        }
+        #img-set-18{
+            margin-top: 555px;
+            margin-left: 1240px;
+        }
+
+        .form-control-19{
+             position: absolute;
+             height: 61px;
+             width: 322px;
+             margin-top: 625px;
+             margin-left: 885px;
+             transform: rotate(0deg);
+             border: 1px solid black;
+        }
+        .form-date-19{
+              position: absolute;
+              height: 65px;
+              width: 108px;
+              margin-top: 625px;
+              margin-left: 776px;
+              transform: rotate(0deg);
+              border: 1px solid black;
+        }
+        #img-set-19{
+            margin-top: 622px;
+            margin-left: 1240px;
+        }
+
+        .form-control-20{
+             position: absolute;
+             height: 61px;
+             width: 322px;
+             margin-top: 692px;
+             margin-left: 885px;
+             transform: rotate(0.3deg);
+             border: 1px solid black;
+        }
+        .form-date-20{
+              position: absolute;
+              height: 65px;
+              width: 108px;
+              margin-top: 690px;
+              margin-left: 776px;
+              transform: rotate(0.3deg);
+              border: 1px solid black;
+        }
+        #img-set-20{
+            margin-top: 690px;
+            margin-left: 1240px;
+        }
+
+        .form-control-21{
+             position: absolute;
+             height: 61px;
+             width: 322px;
+             margin-top: 758px;
+             margin-left: 885px;
+             transform: rotate(0.5deg);
+             border: 1px solid black;
+        }
+        .form-date-21{
+              position: absolute;
+              height: 65px;
+              width: 108px;
+              margin-top: 756px;
+              margin-left: 776px;
+              transform: rotate(0.5deg);
+              border: 1px solid black;
+        }
+        #img-set-21{
+            margin-top: 758px;
+            margin-left: 1240px;
+        }
+
+        .form-control-22{
+             position: absolute;
+             height: 61px;
+             width: 322px;
+             margin-top: 825px;
+             margin-left: 885px;
+             transform: rotate(0.8deg);
+             border: 1px solid black;
+        }
+        .form-date-22{
+              position: absolute;
+              height: 65px;
+              width: 108px;
+              margin-top: 821px;
+              margin-left: 776px;
+              transform: rotate(0.8deg);
+              border: 1px solid black;
+        }
+        #img-set-22{
+            margin-top: 826px;
+            margin-left: 1240px;
         }
